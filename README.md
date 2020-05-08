@@ -10,4 +10,4 @@ It was adapted from [the Contributor Covenant, version 1.4](https://www.contribu
 
 ### Contributing
 
-Material changes to the Code of Conduct should be discussed on the Slack group before being implemented. Please sue the **#general** channel.
+Material changes to the Code of Conduct should be discussed on the Slack group before being implemented. Please use the **#general** channel.
